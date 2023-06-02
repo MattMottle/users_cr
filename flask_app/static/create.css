@@ -1,0 +1,20 @@
+.container {
+    padding: 20px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: darkgreen;
+    color:burlywood;
+    height: 1200px;
+    text-align: center;
+}
+input[name="email"] {
+    margin-left: 30px;
+}
+button {
+    background-color: burlywood;
+    color:darkgreen;
+    margin: 5px;
+}
+div {
+    padding: 5px;
+}

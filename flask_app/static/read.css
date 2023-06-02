@@ -1,0 +1,23 @@
+.container {
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+    height: 1200px;
+    font-style: helvetica;
+    font-size: 14pt;
+    background-color:darkgreen;
+    color:burlywood;
+}
+h1 {
+    text-align: center;
+}
+a {
+    text-align: center;
+    color: burlywood;
+}
+th, td, tr {
+    color: white;
+}
